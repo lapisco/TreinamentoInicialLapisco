@@ -11,7 +11,7 @@ Treinamento para a seleção de novos integrantes do Laboratório de Processamen
 
 | Área de estudo  | Descrição  |  C++ |
 |---|---|---|
-|PDI | Abrir uma imagem colorida, visualizar e salvar | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenges-array-unique.ipynb) |
+|PDI | Abrir uma imagem colorida, visualizar e salvar | [Solution](https://github.com/lapisco/TreinamentoInicialLapisco/tree/master/PDI/Questao01) |
 |PDI | Abrir uma imagem colorida, transformar em níveis de cinza, visualizar e salvar imagem gerada. | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenges-array-unique.ipynb) |
 |PDI | Abrir uma imagem colorida em RGB, visualizar e salvar cada um dos canais separadamente. Obs: Busquem compreender o que significa cada um dos canais. | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenges-array-unique.ipynb) |
 |PDI | 	Abrir uma imagem colorida, transformar em HSV, visualizar e salvar cada um dos canais separadamente. Obs: Busquem compreender o que significa cada um dos canais. | [Solution](http://nbviewer.ipython.org/github/muatik/my-coding-challenges/blob/master/python/challenges-array-unique.ipynb) |
